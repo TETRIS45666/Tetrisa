@@ -249,5 +249,7 @@
     "terminal.integrated.localEchoEnabled": "on",
     "terminal.integrated.macOptionClickForcesSelection": true,
     "terminal.integrated.sendKeybindingsToShell": true,
-    "terminal.integrated.tabs.defaultColor": "terminal.ansiWhite"
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiWhite",
+    "github-actions.use-enterprise": true,
+    "github-actions.workflows.pinned.refresh.enabled": true
 }
