@@ -1,4 +1,6 @@
----
+              - name: Tree-sitter parser fuzzing
+                uses: tree-sitter/fuzz-action@v4
+            ---
 
 - name: Apply or remove standard router template with config_manager
   hosts: ios
